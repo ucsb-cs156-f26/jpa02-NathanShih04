@@ -15,11 +15,7 @@ public class Developer {
      * Get the name of the developer
      */
 
-    public static String getName() {
-        // TODO: Change this to your name
-        // You may use just the name that is used on <https://bit.ly/cs156-f26-teams>
-        // i.e. your first name, or your first and initial of last name
-
+    public static String getName() { 
         return "Nathan";
     }
 
@@ -29,8 +25,7 @@ public class Developer {
      */
 
     public static String getGithubId() {
-        // TODO: Change this to your github id
-        return "cgaucho";
+        return "NathanShih04";
     }
 
     /**
